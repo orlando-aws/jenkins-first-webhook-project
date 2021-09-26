@@ -72,7 +72,7 @@ https://github.com/<your-github-account-name>/jenkins-first-webhook-project/
 
 - Go to `Build` section and choose "Execute Shell Command" step from `Add build step` dropdown menu.
 
-- Write down `python hello-world.py` to execute shell command, in textarea shown.
+- Write down `python hello-world.py` to execute shell command, in text area shown.
 
 - Click `apply` and `save`.
 
