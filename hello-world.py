@@ -1,1 +1,1 @@
-print('Hello World degistirildi')
+print('Hello World')
