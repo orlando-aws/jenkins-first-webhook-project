@@ -4,7 +4,7 @@ Purpose of the this hands-on training is to learn how to trigger Jenkins jobs wi
 
 ## Learning Outcomes
 
-At the end of the this hands-on training, students will be able to;
+At the end of the this hands-on training, students will be able to;,
 
 - integrate your Jenkins server with Github
 
