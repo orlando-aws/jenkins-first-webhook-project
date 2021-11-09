@@ -74,7 +74,7 @@ https://github.com/<your-github-account-name>/jenkins-first-webhook-project/
 
 - Write down `python hello-world.py` to execute shell command, in text area shown.
 
-- Click `apply` and `save`.
+- Click `apply` and `save`.,
 
 - Go to the Jenkins project page and click `Build Now`. The job has to be executed manually one time in order for the push trigger and the git repo to be registered.
 
